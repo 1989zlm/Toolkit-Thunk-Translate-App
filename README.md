@@ -1,8 +1,10 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![translate](https://github.com/1989zlm/Toolkit-Thunk-Translate-App/assets/146070651/cc493025-6fad-4b1b-b1b0-9d5f968fba53)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+##screen gif.
+
+
+
+# Bu proje redux Toolkit-Thunk kullanımı ile geliştirilmiş, Tailwinde kütüphanesinden faydalanılmış, apiden güncel veri alınarak anlık tercüme yapabilmektedir.
